@@ -54,21 +54,24 @@ puts "Is number_students less than or equal to twenty one?", number_students <=2
 
 puts 4 < 9
 #YOU DO: Explain.
-
+# Code will print a boolean value, comparing if 4 is less than 9, returning a value of true.
 books = 3
 puts 4 < books
 # YOU DO: Explain.
-
+# Code starts by defining a variable, "books", that's assigned to an integer, "3".
+# Prints a boolean value, comparing if 4 is less than the value assigned to "books", returning a value of false.
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
-
+# Defines 2 variables, "friends" and "siblings" and assigns them both to integers.
+# Prints a boolean value, comparing if "friends" is greater than "siblings", returning a value of true.
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
-
+# Defines 2 variables, "attendees" and "meals" and assigns them both to integers.
+# Prints a boolean value, comparing if "attendees" is NOT equal to "meals", returning a value of true.
 
 #-------------------
 # PART 3: Logical Operators
